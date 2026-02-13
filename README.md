@@ -39,29 +39,29 @@
 
                     📥 Installation Steps (Windows)
 
-                           - Go to official website:
-                           - 👉 https://www.anaconda.com
-                           - Click Download
-                           - Select: Windows
+                           ✔ Go to official website:
+                           ✔ 👉 https://www.anaconda.com
+                           ✔ Click Download
+                           ✔ Select: Windows
                                64-bit Graphical Installer
-                           - Python 3.x version
-                           - Run the downloaded .exe file
-                           - Click: Next → I Agree
-                           - Install for "Just Me"
-                           - Keep default location
-                           - ✔ Add Anaconda to PATH (optional but helpful)
-                           - Click Install
-                           - Wait for installation to complete
-                           - Click Finish
+                           ✔ Python 3.x version
+                           ✔ Run the downloaded .exe file
+                           ✔ Click: Next → I Agree
+                           ✔ Install for "Just Me"
+                           ✔ Keep default location
+                           ✔ Add Anaconda to PATH (optional but helpful)
+                           ✔ Click Install
+                           ✔ Wait for installation to complete
+                           ✔ Click Finish
                            
                      Step 2: Open Jupyter Notebook
-                           - Method 1 (Easy Way)
-                           - Open Anaconda Navigator
-                           - Click Launch under:
+                           ✔ Method 1 (Easy Way)
+                           ✔ Open Anaconda Navigator
+                           ✔ Click Launch under:
                               👉 Jupyter Notebook
                               
                      Step 3: Open .ipynb File
-                           - In Jupyter browser page
-                           - Navigate to folder where .ipynb file is saved
-                           - Click the file
-                           - Click Run button
+                           ✔ In Jupyter browser page
+                           ✔ Navigate to folder where .ipynb file is saved
+                           ✔ Click the file
+                           ✔ Click Run button
