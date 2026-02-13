@@ -1,6 +1,6 @@
-# 🐍 About Python Language for Data Science
+# 🐍 Python Language for Data Science
 
-    Python is the most popular programming language used in Data Science because it is:
+      Python is the most popular programming language used in Data Science because it is:
 
           ✅ Easy to learn and read
           ✅ Powerful for data analysis
